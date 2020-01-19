@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">American Airlines</string>
+    <string name="lastedit">Enter your last name</string>
+    <string name="firstedit">Enter your first name</string>
+    <string name="locator">Your record locator, or confirmation code, is a 6-letter code</string>
+    <string name="a1">My Seat: A1</string>
+    <string name="a2">My Seat: A2</string>
+    <string name="a3">My Seat: A3</string>
+    <string name="a4">My Seat: A4</string>
+    <string name="b1">My Seat: B1</string>
+    <string name="b2">My Seat: B2</string>
+    <string name="b3">My Seat: B3</string>
+    <string name="b4">My Seat: B4</string>
+    <string name="c1">My Seat: C1</string>
+    <string name="c2">My Seat: C2</string>
+    <string name="c3">My Seat: C3</string>
+    <string name="c4">My Seat: C4</string>
+    <string name="d1">My Seat: D1</string>
+    <string name="d2">My Seat: D2</string>
+    <string name="d3">My Seat: D3</string>
+    <string name="d4">My Seat: D4</string>
+
+
+</resources>
